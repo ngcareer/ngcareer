@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nicholas 👋  
 
-<!--
-**ngcareer/ngcareer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a finance professional pivoting into **data science & analytics**, with a long-term goal of building my career in Seattle by 2030.  
 
-Here are some ideas to get you started:
+## 🔹 Current Focus
+- Python (pandas, matplotlib, finance applications)  
+- SQL (data queries & reporting)  
+- Financial analytics & modeling  
+- Building portfolio projects week by week  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Portfolio
+- Week 1: Sector Distribution Analysis (Python + visualization)  
+- Week 2: Sector Averages & Market Cap Analysis (Python + markdown insights)  
+- More projects coming soon...  
+
+## 🔹 Connect
+- LinkedIn: https://www.linkedin.com/in/nicholasgrieshaber/
+- Email: hello@ngcareer.io (coming soon)  
+
+---
+⭐️ Check back often — I'm adding new projects every week as I progress through my finance + data learning roadmap.  
